@@ -25,11 +25,13 @@ HTML, CSS, JavaScript
 ![screenshot](./images/image.png)
 
 ## 📁 Folder Structure
-expense-tracker/
+```
+
 │── index.html  
 │── style.css  
 │── script.js  
 
+```
 ---
 
 ### 🔥 15 Frontend Projects in 15 Days
